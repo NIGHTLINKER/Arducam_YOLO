@@ -1,0 +1,63 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 중간 디렉터리(x64\Release\)에 다른 프로젝트(yolo_cpp_dll_no_gpu.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  image.c
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_fp16.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\darknet-master\src\image.c(28): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(29): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(116): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(134): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(184): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(235): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(236): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(237): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(238): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(400): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\darknet-master\src\image.c(415): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(421): warning C4244: '함수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(340): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(366): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(367): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(368): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(369): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(452): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(486): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(449): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(469): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(470): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(471): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(472): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(552): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(556): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(769): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(780): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(799): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(800): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(805): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(806): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(818): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(819): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(824): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(825): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(871): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(1024): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(1027): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(1029): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(1030): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(1080): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(1104): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(1135): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\darknet-master\src\image.c(1151): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(1349): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\darknet-master\src\image.c(1350): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\darknet-master\src\image.c(1351): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\darknet-master\src\image.c(1352): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\darknet-master\src\image.c(1369): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\darknet-master\src\image.c(1370): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\darknet-master\src\image.c(1371): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\darknet-master\src\image.c(1415): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\darknet-master\src\image.c(1589): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  35 of 1530 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    90 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  darknet.vcxproj -> D:\darknet-master\build\darknet\x64\darknet.exe
